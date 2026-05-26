@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsprocess",
+        "uuid": 7042325,
+        "checksum": "xf5rcj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
